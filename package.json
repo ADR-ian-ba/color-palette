@@ -1,0 +1,31 @@
+{
+  "name": "@adr-ian/color-palette",
+  "version": "1.0.1",
+  "description": "an easy way to generate color palette, based on color theory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ADR-ian-ba/color-palette.git"
+  },
+  "keywords": [
+    "color",
+    "colorpalette",
+    "colortheory",
+    "generate",
+    "colorgenerate",
+    "colorgeneration",
+    "colorwheel",
+    "colorpalettegenerator",
+    "palette",
+    "palettegenerator"
+  ],
+  "author": "Adrian Purnama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ADR-ian-ba/color-palette/issues"
+  },
+  "homepage": "https://github.com/ADR-ian-ba/color-palette#readme"
+}
