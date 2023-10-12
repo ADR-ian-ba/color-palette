@@ -26,7 +26,7 @@ this will generate a random color palette using **Analogus** color theory
 ```
 [ [ '267ef0' ],[ 'b324e3' ],[ 'fa202f' ],[ '000000' ],[ '074219' ] ]
 ```
-![My Logo](./gradient.png)
+![My Logo](https://github.com/ADR-ian-ba/color-palette/blob/main/gradient.png?raw=true)
 **Generation method**
 * Monochromatic
 * Analogus
@@ -96,7 +96,7 @@ let colorBlind = simulateProtanopia(250,202,56)
 //simulateTritanomaly (r, g b)
 //simulateAchromatopsia (r, g b)
 ```
-![Alt text](./colorblind.png)
+![Alt text](https://github.com/ADR-ian-ba/color-palette/blob/main/colorblind.png?raw=true)
 ### Color Conversion Support 💁‍♂️
 this package also helps you to convert color from one type to other type
 
@@ -129,7 +129,7 @@ the return will be a list, excepet for hex, hex result will be the hex code with
 
 this package support name to color, with precision of **30.200** color, this also takes refrence from [NTC.Js](https://chir.ag/projects/ntc/).
 
-![Alt text](./name.png)
+![Alt text](https://github.com/ADR-ian-ba/color-palette/blob/main/image-1.png?raw=true)
 
 ```js
 import {ntc} from "color-palette"
