@@ -1,3 +1,5 @@
+![image](https://github.com/ADR-ian-ba/color-palette/assets/119506352/7f41c5bb-19ff-4319-8a77-49c4bdc3a2f1)
+
 # Color-Palette Generator 🎨
 
 A simple package allowing you to create color s easily.
