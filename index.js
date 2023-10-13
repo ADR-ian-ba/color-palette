@@ -30482,7 +30482,6 @@ function triadic(count, {hex=true, rgb=false, cmyk=false, realName=false, hsb=fa
         }
         ls.push(res)
     }
-    console.log(lsHsb)
 
     return ls
 
@@ -30542,7 +30541,6 @@ function Complimentary(count, {hex=true, rgb=false, cmyk=false, realName=false, 
       }
       ls.push(res)
   }
-  console.log(lsHsb)
 
   return ls
 
@@ -30602,7 +30600,6 @@ function Square(count, {hex=true, rgb=false, cmyk=false, realName=false, hsb=fal
       }
       ls.push(res)
   }
-  console.log(lsHsb)
 
   return ls
 
@@ -30669,15 +30666,6 @@ function simulateAchromatopsia(r, g, b) {
   return [gray, gray, gray];
 }
 
-// console.log(Monochromatic(5, {
-//   hex: true, 
-//   rgb: true, 
-//   cmyk: true, 
-//   realName: true, 
-//   hsb: true
-// }))
-
-console.log(simulateProtanopia(250,202,56))
 
 module.exports =  { 
   Analogus, 
