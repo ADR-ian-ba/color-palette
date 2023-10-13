@@ -1,3 +1,4 @@
+![image](https://github.com/ADR-ian-ba/color-palette/assets/119506352/7f41c5bb-19ff-4319-8a77-49c4bdc3a2f1)
 # Color-Palette Generator 🎨
 
 A simple package allowing you to create color s easily.
@@ -6,7 +7,7 @@ A simple package allowing you to create color s easily.
 
 Hi i am adrian, a college student wanting to do stuff, this package will allow you to create color palette easily, even knowing the name of the color given.
 
-## instalation 🌏
+## installation 🌏
 for javascript you can install using npm install (i)
 ```javascript
 npm install @adr-ian/color-palette
