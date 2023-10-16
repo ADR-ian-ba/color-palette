@@ -1,6 +1,6 @@
 {
   "name": "easy-palette",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "description": "an easy way to generate color palette, based on color theory",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ADR-ian-ba/color-palette.git"
+    "url": "git+https://github.com/ADR-ian-ba/easy-palette.git"
   },
   "keywords": [
     "color",

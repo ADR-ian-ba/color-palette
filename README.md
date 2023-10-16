@@ -21,7 +21,7 @@ generate simple color palette
 ```js
 import {Analogus} from "color-palette"
 
-let color = Monochromatic(10)
+let color = Analogus(10)
 ```
 this will generate a random color palette using **Analogus** color theory
 ```
