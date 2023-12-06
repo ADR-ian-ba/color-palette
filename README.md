@@ -1,4 +1,4 @@
-![image](https://github.com/ADR-ian-ba/color-palette/assets/119506352/7f41c5bb-19ff-4319-8a77-49c4bdc3a2f1)
+![image](https://github.com/ADR-ian-ba/easy-palette/blob/main/Colorgen%20Logo%20Fix-01.png?raw=true)
 # Color-Palette Generator 🎨
 
 A simple package allowing you to create color s easily.
